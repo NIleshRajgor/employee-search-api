@@ -1,0 +1,23 @@
+{
+  "below_limit": {
+    "org_id": "org1",
+    "ip": "1.2.3.4",
+    "requests": 4
+  },
+  "above_limit": {
+    "org_id": "org1",
+    "ip": "1.2.3.4",
+    "requests": 5
+  },
+  "window_expiry": {
+    "org_id": "org1",
+    "ip": "1.2.3.4",
+    "timestamps": [1000.0, 1001.0, 1002.0, 1011.0]
+  },
+  "separate_keys": [
+    { "org_id": "org1", "ip": "1.1.1.1" },
+    { "org_id": "org2", "ip": "1.1.1.1" },
+    { "org_id": "org1", "ip": "2.2.2.2" },
+    { "org_id": "org2", "ip": "2.2.2.2" }
+  ]
+}

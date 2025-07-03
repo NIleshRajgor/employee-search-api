@@ -1,0 +1,22 @@
+[
+  {
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "contact_info": "111-222-3333",
+    "department": "HR",
+    "position": "Manager",
+    "location": "New York",
+    "status": "Active",
+    "organization_id": 1
+  },
+  {
+    "first_name": "Bob",
+    "last_name": "Johnson",
+    "contact_info": "333-444-5555",
+    "department": "Engineering",
+    "position": "Developer",
+    "location": "San Francisco",
+    "status": "Not Started",
+    "organization_id": 1
+  }
+]
